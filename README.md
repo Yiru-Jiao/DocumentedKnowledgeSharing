@@ -1,5 +1,6 @@
 # Documented Knowledge Sharing
-In an era when the Internet gives everyone equal learning opportunities, we are obliged to keep the windows of knowledge buildings open.
+*In an era when the Internet gives everyone equal learning opportunities, we are obliged to keep the windows of knowledge buildings open.*
+
 This repository enables open access to the documented knowledge created or summarised by me and my collaborators. The content is organized into different categories, such as publications, with potential future additions like lecture notebooks.
 
 # Disclaimer
